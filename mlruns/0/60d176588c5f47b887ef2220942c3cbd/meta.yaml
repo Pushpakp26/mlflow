@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/60d176588c5f47b887ef2220942c3cbd/artifacts
+end_time: 1741432261345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60d176588c5f47b887ef2220942c3cbd
+run_name: shivering-wasp-194
+run_uuid: 60d176588c5f47b887ef2220942c3cbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741432261223
+status: 3
+tags: []
+user_id: pushp

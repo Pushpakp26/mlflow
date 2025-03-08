@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/883504379992703281/167c1ac9aed340c4b91ee4a4179b3dc0/artifacts
+end_time: 1741433671332
+entry_point_name: ''
+experiment_id: '883504379992703281'
+lifecycle_stage: active
+run_id: 167c1ac9aed340c4b91ee4a4179b3dc0
+run_name: crawling-fish-217
+run_uuid: 167c1ac9aed340c4b91ee4a4179b3dc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741433670241
+status: 3
+tags: []
+user_id: pushp

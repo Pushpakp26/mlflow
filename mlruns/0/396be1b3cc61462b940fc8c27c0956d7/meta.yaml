@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/396be1b3cc61462b940fc8c27c0956d7/artifacts
+end_time: 1741432240672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 396be1b3cc61462b940fc8c27c0956d7
+run_name: beautiful-turtle-960
+run_uuid: 396be1b3cc61462b940fc8c27c0956d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741432240559
+status: 3
+tags: []
+user_id: pushp

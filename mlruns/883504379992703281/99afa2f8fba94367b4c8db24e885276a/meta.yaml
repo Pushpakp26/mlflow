@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/883504379992703281/99afa2f8fba94367b4c8db24e885276a/artifacts
+end_time: 1741434641594
+entry_point_name: ''
+experiment_id: '883504379992703281'
+lifecycle_stage: active
+run_id: 99afa2f8fba94367b4c8db24e885276a
+run_name: flawless-hog-9
+run_uuid: 99afa2f8fba94367b4c8db24e885276a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741434624287
+status: 3
+tags: []
+user_id: pushp

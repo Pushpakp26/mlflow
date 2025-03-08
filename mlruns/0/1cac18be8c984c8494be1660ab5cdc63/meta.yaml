@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1cac18be8c984c8494be1660ab5cdc63/artifacts
+end_time: 1741433033724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cac18be8c984c8494be1660ab5cdc63
+run_name: youthful-auk-386
+run_uuid: 1cac18be8c984c8494be1660ab5cdc63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741433032515
+status: 3
+tags: []
+user_id: pushp

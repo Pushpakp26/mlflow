@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fdbd385f6bd4421989ce03f238424a51/artifacts
+end_time: 1741432077918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdbd385f6bd4421989ce03f238424a51
+run_name: skillful-crow-881
+run_uuid: fdbd385f6bd4421989ce03f238424a51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741432077736
+status: 3
+tags: []
+user_id: pushp
